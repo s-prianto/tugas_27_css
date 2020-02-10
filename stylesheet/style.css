@@ -1,0 +1,29 @@
+div{
+  border:0.3px solid white;
+  padding: 7px;
+}
+
+div.aqua{
+  background-color: #2EA3F2;
+}
+
+div.green{
+  background-color: #008000;
+}
+
+div.blue{
+  background-color: #0000FF;
+}
+
+div.red{
+  background-color: #FF0000;
+}
+
+div.yellow{
+  background-color: #FFFF00;
+}
+
+div.purple{
+  background-color: #800080;
+  padding:10px 10px!important;
+}
